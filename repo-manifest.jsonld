@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyter/notebook_shim/commit/e1baccba8e2201e41991eb1c6bd96ff94efa10cc",
       "git:hexsha": "e1baccba8e2201e41991eb1c6bd96ff94efa10cc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyter/notebook_shim/commit/a5f2843464076335cbf2c7f9899620ff896fc4e6",
